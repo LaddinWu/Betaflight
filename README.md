@@ -5,3 +5,8 @@
 # 3 step: make configs
 # 4 step: make arm_sdk_install
 # 5 step: make ALIENFLIGHT4
+
+
+# **********************git command**********************
+# git commit -m "message"
+# git push origin master
